@@ -1,0 +1,234 @@
+.navigation-clean,
+.pg-node-id-1 {
+    background: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #333;
+    border-radius: 0;
+    box-shadow: none;
+    border: none;
+    margin-bottom: 0;
+}
+
+@media (max-width:767px) {
+    .navigation-clean,
+    .pg-node-id-2 {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+@media (max-width:767px) {
+    .navigation-clean .navbar-header,
+    .pg-node-id-3 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+.navigation-clean .navbar-brand,
+.pg-node-id-4 {
+    font-weight: bold;
+    color: inherit;
+}
+
+.navigation-clean .navbar-brand:hover,
+.navigation-clean .navbar-brand.pg-state-hover,
+.pg-node-id-5 {
+    color: #222;
+}
+
+.navigation-clean.navbar-inverse .navbar-brand:hover,
+.navigation-clean.navbar-inverse .navbar-brand.pg-state-hover,
+.pg-node-id-6 {
+    color: #f0f0f0;
+}
+
+.navigation-clean .navbar-brand img,
+.pg-node-id-7 {
+    height: 100%;
+    display: inline-block;
+    margin-right: 10px;
+    width: auto;
+}
+
+.navigation-clean .navbar-toggle,
+.pg-node-id-8 {
+    border-color: #ddd;
+}
+
+.navigation-clean .navbar-toggle:hover,
+.navigation-clean .navbar-toggle.pg-state-hover,
+.navigation-clean .navbar-toggle:focus,
+.navigation-clean .navbar-toggle.pg-state-focus,
+.pg-node-id-9 {
+    background: none;
+}
+
+.navigation-clean.navbar-inverse .navbar-toggle,
+.pg-node-id-10 {
+    border-color: #555;
+}
+
+.navigation-clean .navbar-toggle .icon-bar,
+.pg-node-id-11 {
+    background-color: #888;
+}
+
+.navigation-clean.navbar-inverse .navbar-toggle .icon-bar,
+.pg-node-id-12 {
+    background-color: #eee;
+}
+
+.navigation-clean .navbar-collapse,
+.navigation-clean .navbar-form,
+.pg-node-id-13 {
+    border-top-color: #ddd;
+}
+
+.navigation-clean.navbar-inverse .navbar-collapse,
+.navigation-clean.navbar-inverse .navbar-form,
+.pg-node-id-14 {
+    border-top-color: #333;
+}
+
+.navigation-clean .navbar-nav > .active > a,
+.navigation-clean .navbar-nav > .open > a,
+.pg-node-id-15 {
+    background: none;
+    box-shadow: none;
+}
+
+.navigation-clean.navbar-default .navbar-nav > .active > a,
+.navigation-clean.navbar-default .navbar-nav > .active > a:focus,
+.navigation-clean.navbar-default .navbar-nav > .active > a.pg-state-focus,
+.navigation-clean.navbar-default .navbar-nav > .active > a:hover,
+.navigation-clean.navbar-default .navbar-nav > .active > a.pg-state-hover,
+.pg-node-id-16 {
+    color: #8f8f8f;
+    box-shadow: none;
+    background: none;
+    pointer-events: none;
+}
+
+.navigation-clean.navbar .navbar-nav > li > a,
+.pg-node-id-17 {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.navigation-clean.navbar-default .navbar-nav > li > a,
+.pg-node-id-18 {
+    color: #465765;
+}
+
+.navigation-clean.navbar-default .navbar-nav > li > a:focus,
+.navigation-clean.navbar-default .navbar-nav > li > a.pg-state-focus,
+.navigation-clean.navbar-default .navbar-nav > li > a:hover,
+.navigation-clean.navbar-default .navbar-nav > li > a.pg-state-hover,
+.pg-node-id-19 {
+    color: #37434d !important;
+    background-color: transparent;
+}
+
+.navigation-clean .navbar-nav > li > .dropdown-menu,
+.pg-node-id-20 {
+    margin-top: -5px;
+    box-shadow: 0 4px 8px rgba(0,0,0,.1);
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+@media (max-width:767px) {
+    .navigation-clean .navbar-nav .open .dropdown-menu,
+    .pg-node-id-21 {
+        box-shadow: none;
+    }
+}
+
+@media (max-width:767px) {
+    .navigation-clean .navbar-nav .open .dropdown-menu > li > a,
+    .pg-node-id-22 {
+        color: #37434d;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        line-height: 1;
+    }
+}
+
+.navigation-clean .dropdown-menu > li > a:focus,
+.navigation-clean .dropdown-menu > li > a.pg-state-focus,
+.navigation-clean .dropdown-menu > li > a,
+.pg-node-id-23 {
+    line-height: 2;
+    font-size: 14px;
+    color: #37434d;
+}
+
+.navigation-clean .dropdown-menu > li > a:focus,
+.navigation-clean .dropdown-menu > li > a.pg-state-focus,
+.navigation-clean .dropdown-menu > li > a:hover,
+.navigation-clean .dropdown-menu > li > a.pg-state-hover,
+.pg-node-id-24 {
+    background: #eee;
+    color: inherit;
+}
+
+.navigation-clean.navbar-inverse,
+.pg-node-id-25 {
+    background-color: #1f2021;
+    color: #fff;
+}
+
+.navigation-clean.navbar-inverse .navbar-nav > .active > a,
+.navigation-clean.navbar-inverse .navbar-nav > .active > a:focus,
+.navigation-clean.navbar-inverse .navbar-nav > .active > a.pg-state-focus,
+.navigation-clean.navbar-inverse .navbar-nav > .active > a:hover,
+.navigation-clean.navbar-inverse .navbar-nav > .active > a.pg-state-hover,
+.pg-node-id-26 {
+    color: #8f8f8f;
+    box-shadow: none;
+    background: none;
+    pointer-events: none;
+}
+
+.navigation-clean.navbar-inverse .navbar-nav > li > a,
+.pg-node-id-27 {
+    color: #dfe8ee;
+}
+
+.navigation-clean.navbar-inverse .navbar-nav > li > a:focus,
+.navigation-clean.navbar-inverse .navbar-nav > li > a.pg-state-focus,
+.navigation-clean.navbar-inverse .navbar-nav > li > a:hover,
+.navigation-clean.navbar-inverse .navbar-nav > li > a.pg-state-hover,
+.pg-node-id-28 {
+    color: #fff !important;
+    background-color: transparent;
+}
+
+.navigation-clean.navbar-inverse .navbar-nav > li > .dropdown-menu,
+.pg-node-id-29 {
+    background-color: #1f2021;
+}
+
+.navigation-clean.navbar-inverse .dropdown-menu > li > a:focus,
+.navigation-clean.navbar-inverse .dropdown-menu > li > a.pg-state-focus,
+.navigation-clean.navbar-inverse .dropdown-menu > li > a,
+.pg-node-id-30 {
+    color: #f2f5f8;
+}
+
+.navigation-clean.navbar-inverse .dropdown-menu > li > a:focus,
+.navigation-clean.navbar-inverse .dropdown-menu > li > a.pg-state-focus,
+.navigation-clean.navbar-inverse .dropdown-menu > li > a:hover,
+.navigation-clean.navbar-inverse .dropdown-menu > li > a.pg-state-hover,
+.pg-node-id-31 {
+    background: #363739;
+}
+
+@media (max-width:767px) {
+    .navigation-clean.navbar-inverse .navbar-nav .open .dropdown-menu > li > a,
+    .pg-node-id-32 {
+        color: #fff;
+    }
+}

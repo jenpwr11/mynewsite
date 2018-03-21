@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<Slides>
+<slideNode jpegURL="13bb0b5cf204.jpg" thumbURL="13bb0b5cf204t.jpg" jpegWidth="250" jpegHeight="216"></slideNode>
+<slideNode jpegURL="d7ff0d232c7b.jpg" thumbURL="d7ff0d232c7bt.jpg" jpegWidth="600" jpegHeight="391"></slideNode>
+<slideNode jpegURL="5cd3066adb59.jpg" thumbURL="5cd3066adb59t.jpg" jpegWidth="640" jpegHeight="480"></slideNode>
+<slideNode jpegURL="c9bfccef2674.jpg" thumbURL="c9bfccef2674t.jpg" jpegWidth="259" jpegHeight="194"></slideNode>
+<slideNode jpegURL="bc03add95567.jpg" thumbURL="bc03add95567t.jpg" jpegWidth="256" jpegHeight="192"></slideNode>
+<slideNode jpegURL="ac8cdc9c2a4.jpg" thumbURL="ac8cdc9c2a4t.jpg" jpegWidth="353" jpegHeight="326"></slideNode>
+<slideNode jpegURL="2cfd5ac0a6dc.jpg" thumbURL="2cfd5ac0a6dct.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="7d65157b30c5.jpg" thumbURL="7d65157b30c5t.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="988ca3fe9470.jpg" thumbURL="988ca3fe9470t.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="8ff3ae6b91e8.jpg" thumbURL="8ff3ae6b91e8t.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="244f2abae66b.jpg" thumbURL="244f2abae66bt.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="e5fbb4a4830a.jpg" thumbURL="e5fbb4a4830at.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="3c63fd648e28.jpg" thumbURL="3c63fd648e28t.jpg" jpegWidth="720" jpegHeight="540"></slideNode>
+<slideNode jpegURL="386ef1815567.jpg" thumbURL="386ef1815567t.jpg" jpegWidth="256" jpegHeight="192"></slideNode>
+<slideNode jpegURL="b9e13b6b5540.jpg" thumbURL="b9e13b6b5540t.jpg" jpegWidth="372" jpegHeight="136"></slideNode>
+<slideNode jpegURL="a293207fca1f.jpg" thumbURL="a293207fca1ft.jpg" jpegWidth="699" jpegHeight="540"></slideNode>
+<slideNode jpegURL="f3719da16704.jpg" thumbURL="f3719da16704t.jpg" jpegWidth="558" jpegHeight="540"></slideNode>
+</Slides>
+<setup>
+	<infoNode 
+		sliderposxshift="true"
+		of=" of "
+		sec="sec"
+		PhotoWMax= "580"  
+		PhotoHMax= "400" 
+		captionx="400" 
+		captiony="450" 
+		mymusictrack = ""  
+		thumbblocklength="10" 
+		fontcolor="0x000000"
+		sliderposx = "568"
+		sliderposy = "4"
+		slidervis="true" 
+		verticalthumbs ="false" 
+		slideimagein="true" 
+		slideinimagenudge="false" 
+		thumbxLoc= "0"  
+		photoYLoc="50" 
+		photoXLoc="0" 
+		thumbyLoc= "570" 
+		thumbsvis= "true" 
+		thumbsize= "50" 
+		thumbgap= "5"  
+		thumbygap= "0" 
+		blur="20"  
+		sliderdoc = "false" 
+		popslide="true"
+		popborder="true"
+		reflection="false" 
+		AutoHideControls = "true"
+		Autoplay="true"
+		Sliderdefault="3"
+		>
+	</infoNode>
+</setup>
+ 

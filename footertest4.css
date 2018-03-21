@@ -1,0 +1,114 @@
+body {
+    padding-top: 1rem;
+}
+
+.nb-footer {
+    padding: 3rem 1.5rem;
+}
+
+.jen-log {
+    width: 40%;
+    margin-top: 2px;
+    padding-top: 2px;
+}
+
+footer.nb-footer {
+    background: #232126;
+    https: //codecanyon.net/;
+    https: //codecanyon.net/;
+    border-top: 4px solid #b78c33;
+}
+
+footer.nb-footer .about {
+    margin: 0 auto;
+    margin-top: 5px;
+    max-width: 1170px;
+    text-align: center;
+}
+
+footer.nb-footer .about .connect {
+    font-size: 23px;
+    color: #DE3A30;
+    margin-top: 10px;
+}
+
+footer.nb-footer .about .social-media {
+    margin-top: 15px;
+}
+
+footer.nb-footer .about .social-media ul li a {
+    display: inline-block;
+    width: 55px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+}
+
+footer.nb-footer .about .social-media ul li a:hover {
+    background: #b78c33;
+    color: #fff;
+    border-color: #b78c33;
+}
+
+.fab.fa-facebook {
+    color: #ffffff;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: green;
+}
+
+.fab.fa-yelp {
+    color: #ffffff;
+    padding: 10px;
+    margin-right: 5px;
+    background-color: #DE3A30;
+}
+
+.fab.fa-google-plus {
+    color: #ffffff;
+    padding: 10px;
+    margin-right: 7px;
+    background-color: blue;
+}
+
+.fab.fa-youtube-square {
+    color: #ffffff;
+    padding: 10px;
+    background-color: #DE3A30;
+}
+
+footer.nb-footer .footer-info-single {
+    margin-top: 5px;
+}
+
+/** -------------------- section titles------- **/
+footer.nb-footer .footer-info-single .title {
+    color: #E4E6F0;
+    text-transform: uppercase;
+    font-size: 16px;
+    text-align: left;
+}
+
+/** ----------------------- links------- **/
+footer.nb-footer .footer-info-single ul li a {
+    display: block;
+    color: #E4E6F0;
+    font-weight: 200;
+    padding: 4px 0;
+    font-size: 19px;
+}
+
+footer.nb-footer .footer-info-single ul li a:hover {
+    color: #b78c33;
+}
+
+footer.nb-footer .copyright {
+    background: #111;
+    padding: 7px 0;
+    color: #999;
+}
+
+footer.nb-footer .copyright p {
+    margin: 0;
+    padding: 0;
+}

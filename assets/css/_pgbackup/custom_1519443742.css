@@ -1,0 +1,21 @@
+.megamenu {
+    width: 800px;
+    height: 200px;
+    
+    padding: 10px 10px;
+    background-color: aliceblue;
+    
+}
+
+.megamenu .date {
+    
+    color: #bebebe;
+    font-size: 14px;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.megamenu .item img {
+    width: 200px;
+    height: 120px;
+}
