@@ -10,6 +10,16 @@ body {
     display: inline-block;
 }
 
+.navbar-brand {
+    padding: 0px;
+}
+
+.navbar-brand>img {
+    height: 100%;
+     padding: ;
+    width: auto;
+}
+
 #promo {
     text-align: center;
     padding: 40px;
